@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AISGG/AISGG.vcxproj" Id="e2f032fe-d27d-41d3-b63b-2d6a36c14081" />
+</Solution>
